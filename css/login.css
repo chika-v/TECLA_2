@@ -1,0 +1,35 @@
+.cuerpo {
+    background: linear-gradient(to top right, #fb1368 0%, #f8ce13 100%);
+    margin: 0;
+  }
+  .mb-4 {
+    margin-top: 1rem;
+    display : flex;
+    width: 20rem;
+    height: 130px;
+    justify-content: center;
+    align-items:center ;
+  }
+  
+  .formulario_login {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: 30% auto;
+    align-items: center;
+    padding: 2rem;
+  }
+  
+  form input {
+    margin-bottom: 2rem;
+  }
+  
+  .titulo_login {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  .adorno_fondo {
+    background-color: #fb7378;
+    color:rgb(144, 255, 218);
+    background-image: url('./img/modazushi\ 1.jpg') ;
+  }
